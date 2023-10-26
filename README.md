@@ -17,7 +17,7 @@ npm install
 ## Run tests
 
 ```sh
-npm run dev
+npm start
 ```
 
 ## Author
